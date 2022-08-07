@@ -1,0 +1,11 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/TopDownGunPack/Scenes/Demo Scene.unity
+    guid: 3fd7e3b5eb671472c9351d4a62b4740e
+  m_configObjects: {}
