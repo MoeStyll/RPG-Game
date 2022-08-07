@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Counter
+  - Enemy
+  - Weapon
+  - EnemyPoo
+  - Mine
+  - EnemyBullet
+  - Heal
+  - Coin
+  - Portal
+  - Level2
+  - StrongEnemy
+  - ShootingEnemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Poo
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 119235143
+    locked: 0
+  - name: Road
+    uniqueID: 1688465373
+    locked: 0
+  - name: Poo
+    uniqueID: 4226016281
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ExtraLayer
+    uniqueID: 2028850103
+    locked: 0
